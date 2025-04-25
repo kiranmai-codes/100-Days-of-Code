@@ -11,6 +11,6 @@ GFG: https://www.geeksforgeeks.org/first-negative-integer-every-window-size-k/
 
 - 📚 What I learned: Theory - Array Indexing, Looping, In place algorthim, Sorting Algorthims, Two Pointer Technique, Sliding window - fixed,variable size, prefix sum, kadane's algorthim, search algorthims, bit manipulation, 2d arrays
 
-Learned all the theortical and implementation on these things work by manually dry running code.
+Learned all the theortical and implementation on these topics by manual dry running code.
 
 - 🔜 Plan for tomorrow: Start Problems solving problems on leetcode on the topics above. 
